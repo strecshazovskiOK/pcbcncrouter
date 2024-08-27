@@ -25,8 +25,6 @@ Z-axis: Connect the third potentiometer similarly and connect the stepper motor 
 Please refer to the code comments for specific pin connections and settings.
 
 Installation
-Clone the Repository:  git clone https://github.com/strecshazovskiOK/3axis-cnc-control.git
-  
 Upload the Code: Open the 3axis3potControlMega.ino file in the Arduino IDE and upload it to your Arduino Mega 2560.
 
 Usage
