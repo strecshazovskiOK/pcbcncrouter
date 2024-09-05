@@ -34,10 +34,5 @@ Adjust the Potentiometers: Rotate the potentiometers to control the movement of 
 Observe the Motion: The CNC machine should respond to the potentiometer adjustments, moving in the corresponding directions.
 Contributing
 
-homing and gotoz scripts are related with mach interface buttons.
-homing is for all type of CNCs because it uses homing function for axis.
-If you are using more than 3 axis you will need to add a block of code for that axis as well
-The working logic of that code is when the axis hit the limited switch, program understands that it is home for that axis.
-
 Acknowledgments
 Special thanks to the open-source community and the contributors to the Arduino platform for making projects like this possible.
